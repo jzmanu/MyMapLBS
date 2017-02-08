@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity{
 //        mBaiduMap.setBaiduHeatMapEnabled(true);
         //标注覆盖物
         markLatLng();
+        System.out.println("测试git版本控制");
     }
 
     /**
